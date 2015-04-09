@@ -4,7 +4,7 @@ module.exports = {
 		"socket": {
 			"nginx": "var/nginx.sock"
 		},
-		"tail_cmd" : "gtail -F --lines=0 %s"
+		"tailCmd" : "gtail -F --lines=0 %s"
 	},
 	"inputs": {
 		"files": {
