@@ -6,7 +6,8 @@
   "dependencies": {
     "lodash": "^3.6.0",
     "highland": "^2.4.0",
-    "cron": "^1.0.9"
+    "cron": "^1.0.9",
+    "winston": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {

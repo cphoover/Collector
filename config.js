@@ -1,5 +1,6 @@
 module.exports = {
 	"options": {
+		"log_level" : "debug",
 		"type" : "b2c-web",
 		"remote": { "host" : "localhost", "port" : 8008 },
 		"socket": {
