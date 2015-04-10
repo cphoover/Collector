@@ -1,6 +1,6 @@
 module.exports = {
 	"options": {
-		"remote": "10.255.23.42:1234",
+		"remote": "127.0.0.1:8008",
 		"socket": {
 			"nginx": "var/nginx.sock"
 		},
