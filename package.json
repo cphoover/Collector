@@ -7,7 +7,8 @@
     "lodash": "^3.6.0",
     "highland": "^2.4.0",
     "cron": "^1.0.9",
-    "winston": "^1.0.0"
+    "winston": "^1.0.0",
+    "forever-monitor": "^1.5.2"
   },
   "devDependencies": {},
   "scripts": {

@@ -13,7 +13,7 @@ module.exports = {
 			"test_tail": "/Users/choover/workspace/sandbox/forwarding-agent/test/test.log",
 			"nginx_access": "/var/logs/nginx/access.log",
 			"app1": {
-				"src": "~/.forever/current/v6-b2c-01.log",
+				"src": "/Users/choover/.forever/current/v6-b2c-01.log",
 				"filter": [/(info\:|error\:|warn\:)/],
 				"sample_ratio": 0.5
 			}
