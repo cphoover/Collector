@@ -1,5 +1,6 @@
 module.exports = {
 	"options": {
+		"type" : "b2c-web",
 		"remote": "127.0.0.1:8008",
 		"socket": {
 			"nginx": "var/nginx.sock"
