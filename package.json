@@ -4,11 +4,12 @@
   "description": "",
   "main": "conf.js",
   "dependencies": {
-    "lodash": "^3.6.0",
-    "highland": "^2.4.0",
     "cron": "^1.0.9",
-    "winston": "^1.0.0",
-    "forever-monitor": "^1.5.2"
+    "forever-monitor": "^1.5.2",
+    "highland": "^2.4.0",
+    "lodash": "^3.6.0",
+    "nconf": "^0.7.1",
+    "winston": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {

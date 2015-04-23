@@ -1,1 +1,1 @@
-require("./lib/collector")(require("./config"));
+require("./lib/collector")(require("./lib/config"));
