@@ -1,0 +1,21 @@
+{
+	"options": {
+		"log_level": "info",
+		"type": "log",
+		"tailCmd": "tail -F --lines=0 %s",
+		"remote": {
+			"host": "127.0.0.1",
+			"port": 8000
+		}
+	},
+	"inputs": {
+		"files" : {
+			"app0" : "/var/log/blah.log"
+		}
+	},
+	"forever": {
+		"minUptime": 2000,
+		"spinSleepTime": 1000,
+		"silent": true
+	}
+}
