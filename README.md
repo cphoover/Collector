@@ -2,4 +2,9 @@
 A node based collector &amp; UDP forwarder
 
 
-## DONT USE ME HAS NOT BEEN THOROUGHLY TESTED
+
+### TODO
+* Add UNIT Tests
+* Add Filtering With Regex constructed from string value of config
+* Make Inputs Pluggable
+* Make Outputs Pluggable
